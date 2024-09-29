@@ -1,6 +1,6 @@
 # Space Invaders - Pygame
 
-Welcome to **Space Invaders**, a classic arcade-style shooting game developed using Python's Pygame library. The player controls a spaceship and must shoot down waves of alien UFOs while avoiding enemy bullets and crashes. Keep track of your score as you progress, but be careful—if an enemy bullet hits you or you crash into a UFO, the game is over!
+Welcome to **Space Invaders**, a classic arcade-style shooting game developed using Python's Pygame library. The player controls a spaceship and must shoot down waves of alien UFOs while avoiding enemy bullets and crashes. Keep track of your score as you progress, but be careful — if an enemy bullet hits you or you crash into a UFO, the game is over!
 
 ## Game Overview
 
